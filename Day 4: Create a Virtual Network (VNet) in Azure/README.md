@@ -33,7 +33,7 @@ Create a Virtual Network named **`devops-vnet`** in the **Central US** region wi
 ---
 
 ## 🚀 Implementation Steps
-![image]()
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/914c30c762136ad86d5aff8d8064877aabffbe52/Day%204%3A%20Create%20a%20Virtual%20Network%20(VNet)%20in%20Azure/Screenshot%202026-03-17%20173928.png)
 ### 1. Login to Azure
 
 ```bash
