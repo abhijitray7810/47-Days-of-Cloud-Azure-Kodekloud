@@ -1,5 +1,5 @@
 # Azure Virtual Network Setup - DevOps Migration Task
-![image]()
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/9afc26169c88328616acc6da931ff348b613a458/Day%204%3A%20Create%20a%20Virtual%20Network%20(VNet)%20in%20Azure/Screenshot%202026-03-17%20173751.png)
 ## 📌 Project Overview
 
 The Nautilus DevOps team is executing a phased migration of infrastructure to the Azure cloud. To ensure a smooth and low-risk transition, the migration is being performed incrementally by breaking down large tasks into smaller, manageable units.
