@@ -23,7 +23,7 @@ Create a Virtual Network named **`devops-vnet`** in the **Central US** region wi
 * **Subnet Range:** 10.0.0.0/24
 
 ---
-![image]()
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/42ef2ff5ee366935990e5c7ae383e7f8a57cff6d/Day%204%3A%20Create%20a%20Virtual%20Network%20(VNet)%20in%20Azure/Screenshot%202026-03-17%20173832.png)
 ## ⚙️ Prerequisites
 
 * Azure account access
