@@ -14,7 +14,7 @@ Instead of a full-scale migration, the infrastructure is built step-by-step to e
 - **Region:** centralus  
 - **Address Space:** 10.0.0.0/16  
 
----
+---https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/fd8e92e6256310abfcc5499ef8464366146e9406/Day%206%3A%20Create%20a%20Subnet%20in%20Azure%20Virtual%20Network/Screenshot%202026-03-21%20204719.png
 ![image]()
 ## 🛠️ Prerequisites
 
