@@ -23,7 +23,7 @@ Instead of a full-scale migration, the infrastructure is built step-by-step to e
 - Proper credentials (provided in lab)
 
 ---
-![image]()
+![image](https://github.com/abhijitray7810/100-Days-of-Cloud-Azure-Kodekloud/blob/39615ced95a629dda4c3e06181bf298b95ecc660/Day%206%3A%20Create%20a%20Subnet%20in%20Azure%20Virtual%20Network/Screenshot%202026-03-21%20204830.png)
 ## 🔐 Login to Azure
 
 ```bash
