@@ -6,7 +6,7 @@ Create a Virtual Network (VNet) named nautilus-vnet in the southcentralus region
 
 Use below given Azure Credentials: (You can run the showcreds command on the azure-client host to retrieve credentials)
 
-Portal URL	https://portal.azure.com
+Portal URL	https://portal.azure.com 
 Username	kk_lab_user_main-5d1430f14e3448ca@azurefreekmlprod.onmicrosoft.com 
 Password	kBmwYXh=
 Start Time	Wed Mar 18 14:21:13 UTC 2026
