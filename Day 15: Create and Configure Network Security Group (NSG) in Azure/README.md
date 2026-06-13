@@ -1,4 +1,4 @@
-````r
+``
 # Azure Network Security Group (NSG) Setup
 
 This document describes the steps to create a Network Security Group (NSG) for the Nautilus DevOps Azure migration task.
